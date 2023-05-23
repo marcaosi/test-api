@@ -1,0 +1,19 @@
+{
+  "pessoa": [],
+  "produto": [
+    {
+      "nome": "Geladeira",
+      "preco": 3500.4,
+      "peso": 90,
+      "cor": "branco",
+      "id": 1
+    },
+    {
+      "nome": "Geladeira Cinza",
+      "preco": 3200.4,
+      "peso": 90,
+      "cor": "cinza",
+      "id": 2
+    }
+  ]
+}
